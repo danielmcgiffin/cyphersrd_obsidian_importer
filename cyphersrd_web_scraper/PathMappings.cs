@@ -10,8 +10,7 @@ public class PathMappings
 
         return Program.System switch
         {
-            GameSystem.PATHFINDER_1E => GetMappingcyphersrd(pathParts),
-            GameSystem.DND_5E => GetMapping5esrd(pathParts),
+            GameSystem.CYPHER => GetMappingcyphersrd(pathParts),
             _ => path,
         };
     }
