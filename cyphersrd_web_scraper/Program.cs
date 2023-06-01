@@ -145,7 +145,7 @@ internal class Program
         }
         else
         {
-            ParseTest("https://callmepartario.github.io/og-csrd/classes/core-classes/druid/");
+            ParseTest("https://callmepartario.github.io/og-csrd/#type-warrior");
         }
     }
 
