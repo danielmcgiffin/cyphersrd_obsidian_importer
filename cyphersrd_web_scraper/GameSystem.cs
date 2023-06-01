@@ -6,7 +6,7 @@ public static class GameSystem
 
     public static Dictionary<string, string> GameSystemToLink = new Dictionary<string, string>
     {
-        {CYPHER, "https://www.cyphersrd.com"},
+        {CYPHER, "https://callmepartario.github.io/og-csrd/"},
     };
 
     public static Dictionary<string, string> GameSystemToPrefix = new Dictionary<string, string>
