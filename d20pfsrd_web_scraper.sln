@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "d20pfsrd_web_scraper", "d20pfsrd_web_scraper\d20pfsrd_web_scraper.csproj", "{35EE3067-BC7D-4354-A99B-6A27DDAD648F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cyphersrd_web_scraper", "cyphersrd_web_scraper\cyphersrd_web_scraper.csproj", "{35EE3067-BC7D-4354-A99B-6A27DDAD648F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

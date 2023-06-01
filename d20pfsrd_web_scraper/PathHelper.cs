@@ -1,4 +1,4 @@
-﻿namespace d20pfsrd_web_scraper;
+﻿namespace cyphersrd_web_scraper;
 
 public class PathHelper
 {

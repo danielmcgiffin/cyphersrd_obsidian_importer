@@ -1,4 +1,4 @@
-﻿namespace d20pfsrd_web_scraper;
+﻿namespace cyphersrd_web_scraper;
 
 public class PathMappings
 {
@@ -10,13 +10,13 @@ public class PathMappings
 
         return Program.System switch
         {
-            GameSystem.PATHFINDER_1E => GetMappingD20pfsrd(pathParts),
+            GameSystem.PATHFINDER_1E => GetMappingcyphersrd(pathParts),
             GameSystem.DND_5E => GetMapping5esrd(pathParts),
             _ => path,
         };
     }
 
-    private static string GetMappingD20pfsrd(List<string> path)
+    private static string GetMappingcyphersrd(List<string> path)
     {
         // remove sub folders for spells
         int allSpellsIndex = path.IndexOf("all-spells");

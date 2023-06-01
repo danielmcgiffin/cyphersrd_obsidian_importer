@@ -22,10 +22,8 @@
     </ItemGroup>
 
     <ItemGroup>
-        <Content Include="fileOverrides\5esrd_overrides\home.md" />
-        <Content Include="fileOverrides\5esrd_overrides\_readme.md" />
-        <Content Include="fileOverrides\d20pfsrd_overrides\home.md" />
-        <Content Include="fileOverrides\d20pfsrd_overrides\_readme.md" />
+        <Content Include="fileOverrides\cyphersrd_overrides\home.md" />
+        <Content Include="fileOverrides\cyphersrd_overrides\_readme.md" />
     </ItemGroup>
 
     <ItemGroup>

@@ -3,7 +3,7 @@ using System.Text;
 using System.Text.RegularExpressions;
 using HtmlAgilityPack;
 
-namespace d20pfsrd_web_scraper;
+namespace cyphersrd_web_scraper;
 
 public class SrdCrawler
 {

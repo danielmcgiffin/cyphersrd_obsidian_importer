@@ -1,7 +1,7 @@
 ﻿using System.Text;
 using System.Text.Json;
 
-namespace d20pfsrd_web_scraper;
+namespace cyphersrd_web_scraper;
 
 public class NoteMetadata
 {

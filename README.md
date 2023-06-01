@@ -1,6 +1,6 @@
 # SRD Obsidian Importer
 
-This is the script I use to import d20pfsrd and 5esrd into Obsidian.
+This is the script I use to import cyphersrd into Obsidian.
 
 ### Important Note
 This was uploaded to GitHub as an example of how to construct your own script to do something like this. This is not a script that can just be cloned and executed with the expectation of it working.

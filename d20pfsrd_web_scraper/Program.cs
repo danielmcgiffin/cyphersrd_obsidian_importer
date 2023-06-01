@@ -3,7 +3,7 @@ using System.Runtime.Serialization;
 using Microsoft.Extensions.Logging;
 using Newtonsoft.Json;
 
-namespace d20pfsrd_web_scraper;
+namespace cyphersrd_web_scraper;
 
 internal class Program
 {
@@ -29,7 +29,7 @@ internal class Program
     {
         builder.AddFilter("Microsoft", LogLevel.Warning)
             .AddFilter("System", LogLevel.Warning)
-            .AddFilter("d20pfsrd_web_scraper", LogLevel.Debug)
+            .AddFilter("cyphersrd_web_scraper", LogLevel.Debug)
             .AddConsole();
     });
 
@@ -62,7 +62,7 @@ internal class Program
         
         
         Console.WriteLine("---");
-        Console.WriteLine("d20pfsrd obsidian importer");
+        Console.WriteLine("cyphersrd obsidian importer");
         Console.WriteLine("---");
 
         Console.WriteLine($"Run location: {RunLocation}");
@@ -145,7 +145,7 @@ internal class Program
         }
         else
         {
-            ParseTest("https://www.d20pfsrd.com/classes/core-classes/druid/");
+            ParseTest("https://www.cyphersrd.com/classes/core-classes/druid/");
         }
     }
 

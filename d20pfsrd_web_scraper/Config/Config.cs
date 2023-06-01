@@ -2,7 +2,7 @@
 using System.Reflection;
 using System.Runtime.Serialization;
 
-namespace d20pfsrd_web_scraper;
+namespace cyphersrd_web_scraper;
 
 public class Config
 {
